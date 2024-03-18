@@ -1,0 +1,1 @@
+RunUAT.bat BuildCookRun -project="C:\UnrealEngineProject\MyProject2\MyProject2.uproject" -noP4 -platform=Win64 -clientconfig=Development -serverconfig=Development -cook -allmaps -build -stage -pak -archive -archivedirectory="C:\UnrealEngineProject\MyProject2\Build"
